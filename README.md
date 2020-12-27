@@ -12,8 +12,8 @@
 <a href="https://github.com/sodomon2/SODPlayer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sodomon2&repo=SODPlayer&theme=dracula" />&nbsp;&nbsp;
 </a>
-<a href="https://github.com/sodomon2/agenda_personal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sodomon2&repo=agenda_personal&theme=dracula" />
+<a href="https://github.com/moonsteal/moonpad>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=moonsteal&repo=moonpad&theme=dracula&show_owner=true" />
 </a>
 
 <!--

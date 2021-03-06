@@ -12,8 +12,8 @@
 <a href="https://github.com/sodomon2/SODPlayer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sodomon2&repo=SODPlayer&theme=dracula" />&nbsp;&nbsp;
 </a>
-<a href="https://github.com/moonsteal/moonterm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=moonsteal&repo=moonterm&theme=dracula&show_owner=true" />
+<a href="https://github.com/sodomon2/moonterm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sodomon2&repo=moonterm&theme=dracula" />
 </a>
 
 <!--

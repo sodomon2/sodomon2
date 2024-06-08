@@ -1,19 +1,7 @@
+## Hi, I'm sodomon. 👋
 
-
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sodomon2&theme=dracula&hide=prs&show_icons=true&hide_rank=true&count_private=true" />&nbsp;
-</a>
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sodomon2&layout=compact&theme=dracula&langs_count=6" />
-</a>
-
-## Current main projects
-
-<a href="https://github.com/sodomon2/SODPlayer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sodomon2&repo=SODPlayer&theme=dracula" />&nbsp;&nbsp;
-</a>
-<a href="https://github.com/sodomon2/moonterm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sodomon2&repo=moonterm&theme=dracula" />
 </a>
 
 <!--
